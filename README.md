@@ -1,4 +1,4 @@
-# 💮 GenerAd AI 💮
+# 💮 GenerAd AI 💮 (FourthBrain Sample Project)
 ## Elevate your Ad game with GenerAd, powered by BLOOM!
 GenerAd AI is a fine-tuned LLM marketing assistant that can help you generate quick, and catchy, advertisements for your products!
 
